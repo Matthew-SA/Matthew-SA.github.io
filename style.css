@@ -300,12 +300,6 @@ ul.circled li:before {
     margin: 12px 8px 0 0;
     text-transform: uppercase;
 }
-/* hr {
-    border: none;
-    border-bottom: 2px solid rgba(255,255,255,0.2);
-    padding-bottom: 20px;
-    margin-bottom: 40px;
-} */
 
 hr { 
     border: none;
