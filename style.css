@@ -1197,7 +1197,7 @@ figure a .text-overlay .info span {
 .cbp-popup-singlePage .cbp-popup-content {
     max-width: 100%;
     width: 100%;
-    margin-top: 154px;
+    margin-top: 80px;
 }
 .cbp-popup-singlePage {
     background: #1e1e1f
@@ -1210,7 +1210,7 @@ figure a .text-overlay .info span {
     padding: 0 50px;
 }
 .cbp-popup-singlePage .cbp-popup-navigation-wrap {
-    height: 104px;
+    height: 60px;
     background: #1a1a1b;
     z-index: 99990;
 }

@@ -3276,7 +3276,7 @@ a.sp-video:after {
   position: relative;
   z-index: 1;
   /* @editable properties */
-  margin-top: 145px;
+  /* margin-top: 145px; */
   max-width: 1024px;
   vertical-align: top;
   width: 94%; }
